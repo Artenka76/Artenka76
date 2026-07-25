@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hello there 👋🏻
 
 I'm François-Xavier, a Computer Science student at IUT Paris Rives de Seine and an apprentice developer based near Paris. I mostly build mobile apps with React Native and serverless back-ends on Cloudflare.
 
